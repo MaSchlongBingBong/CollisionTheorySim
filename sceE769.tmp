@@ -4,3 +4,4 @@
 
 [node name="main" type="Node2D"]
 script = ExtResource("1_5w5sj")
+radius = 0.1
